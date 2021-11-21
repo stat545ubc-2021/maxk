@@ -1,0 +1,14 @@
+Package: maxk
+Title: Get the k-th largest element of a numeric vector
+Version: 0.0.0.9000
+Authors@R: 
+    person("Jiahao", "Li", , "lijiahao5269588@gmail.com", role = c("aut", "cre"))
+Description: This package contains function that returns the k-th largest element in a vector with two parameters, nums and k on a 1-index basis. 
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
